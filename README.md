@@ -1,2 +1,2 @@
 # miguel
-Exercício de programação para o garotão de 8 anos.
+Demonstração de HTML, CSS e JS para o garotão de 8 anos.
